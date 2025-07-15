@@ -1,7 +1,4 @@
 # 🏠 | Home
-
-Intorducing "Home", The successor of "Homepage"
-
 > Built with ❤️ by [@sparshabhusal](https://github.com/sparshabhusal)
 
 ---
