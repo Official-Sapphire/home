@@ -24,12 +24,12 @@ Intorducing "Home", The successor of "Homepage"
 
 # Chrome
 
-Step 1 : go to " sparsha-bhusal.github.io/home "
-Step 2 : copy url address
-Step 3 : Go to settings [here !](chrome://settings )
-Step 4 : Go to " On Startup "
-Step 5 : Choose " Open a specific page or set of pages "
-Step 6 : Click "Add a new page" and paste
+- Step 1 : go to " sparsha-bhusal.github.io/home "
+- Step 2 : copy url address
+- Step 3 : Go to settings [here !](chrome://settings )
+- Step 4 : Go to " On Startup "
+- Step 5 : Choose " Open a specific page or set of pages "
+- Step 6 : Click "Add a new page" and paste
 
 ## 🎯 Why?
 I built this to match my minimalist workflow on Linux + Tiling WMs.  
