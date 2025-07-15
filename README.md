@@ -3,8 +3,6 @@
 
 ---
 
-## 🖼️ Preview
-
 ![Startpage Screenshot](./assets/preview.png)
 
 ---
