@@ -1,6 +1,4 @@
 # 🏠 | Home
-> Built with ❤️ by [@sparshabhusal](https://github.com/sparshabhusal)
-
 ---
 
 ![Startpage Screenshot](./assets/preview.png)
