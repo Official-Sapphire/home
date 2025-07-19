@@ -35,6 +35,6 @@ Method 2 ( Extension emthod ) :
 
 
 ## 🎯 Why?
-I built this to match my minimalist workflow on Linux + Tiling WMs.  
+I built this to match my minimalist workflow.
 No distractions. Just fast access to what I use daily.
 
